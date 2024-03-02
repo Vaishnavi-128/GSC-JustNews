@@ -65,13 +65,19 @@ The need for our application arises from the increasing prevalence of biased jou
   <!-- Repeat the above structure for other sections -->
 
   <h2 id="installation">Installation</h2>
-  <p>Installation
-To run this app, follow the steps below:
-1.	Clone the repository by opening the command prompt in the desired folder and typing:
-git clone https://github.com/Vaishnavi-128/justnews.git
-2.	Navigate to the project's root directory.
-3.	Run the following command to install the project dependencies specified in the pubspec.yaml file:
-flutter pub get</p>
+  <p><strong>Installation</strong></p>
+<p>To run this app, follow the steps below:</p>
+<ol>
+  <li>Clone the repository by opening the command prompt in the desired folder and typing:
+    <pre><code>git clone https://github.com/Vaishnavi-128/justnews.git</code></pre>
+  </li>
+  <li>Navigate to the project's root directory.</li>
+  <li>Run the following command to install the project dependencies specified in the pubspec.yaml file:
+    <pre><code>flutter pub get</code></pre>
+  </li>
+</ol>
+</p>
+
  
 
   <!-- Add more content as needed -->

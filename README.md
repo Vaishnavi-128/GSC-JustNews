@@ -116,7 +116,7 @@ The need for our application arises from the increasing prevalence of biased jou
   <!-- Add more content as needed -->
 
   <h2 id="contributing">Contributing</h2>
-<p><strong>CONTRIBUTION</strong></p>
+<p><strong>We welcome contributions to JustNews. If you have any ideas or features you would like to add, please feel free to fork the repository and make a pull request.</strong></p>
 <ol>
   <li>Fork the repository</li>
   <li>Create a new branch with your feature or bug fix.</li>

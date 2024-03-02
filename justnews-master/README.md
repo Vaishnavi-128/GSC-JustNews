@@ -28,7 +28,7 @@ The need for our application arises from the increasing prevalence of biased jou
 
 <h2 id="survey">Survey</h2>
 <p>According to our survey spanning all age groups from 15 to 60 years old, online news sources are overwhelmingly preferred over newspapers and news channels for staying informed. The majority of respondents expressed concerns about bias in traditional news channels. As a result, there is a clear demand for unbiased news platforms.</p>
-<img src="assets/images/age.jpeg" alt="Age">
+<img src="\GSC-JustNews\justnews-master\assets\images\age.jpeg" alt="Age">
 <img src="assets/images/gender.jpeg" alt="Gender">
 <img src="assets/images/sources.jpeg" alt="What sources do you primarily use for news?">
 <img src="assets/images/biased.jpeg" alt="Do you believe that news media outlets have biases?">

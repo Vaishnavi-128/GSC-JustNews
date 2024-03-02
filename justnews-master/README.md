@@ -4,12 +4,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SheRights - Women's Safety and Empowerment Application</title>
+  <title>JustNews-Justified News Application</title>
 </head>
 
 <body>
 
-  <h1>SheRights - Women's Safety and Empowerment Application</h1>
+  <h1>JustNews-Justified News Application</h1>
 
   <h2>Table of Contents</h2>
   <ul>
@@ -17,13 +17,24 @@
     <li><a href="#features">Features</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#configuration">Configuration</a></li>
-    <li><a href="#running-the-application">Running the Application</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
     <li><a href="#contributing">Contributing</a></li>
   </ul>
 
   <h2 id="introduction">Introduction</h2>
-  <p>SheRights is a React Native application designed to help women stay safe and empowered. The app contains various categories such as Domestic Violence, Education, Reproductive Health, Forced Marriage, Workplace Discrimination, and Sexual Assault. Each category, after clicking on it, is surveyed with 7-option-based questions where each option selected has a score, and at the end of the survey, the total score is calculated for 7 questions, and the severity of the case is displayed to the victim.</p>
+  <p>Introducing our Flutter application designed to address the need for unbiased news reporting and combat harassment in journalism. Our platform allows individuals to anonymously submit news stories, which are then reviewed by an administrator. The administrator carefully evaluates each submission based on the evidence provided by the user. If the news is verified as credible, it is featured on the home page of our application, providing a platform for diverse voices and minimizing biased reporting.</P></br></br>
+<p>
+The need for our application arises from the increasing prevalence of biased journalism and the harassment faced by journalists. By providing a platform for anonymous news sharing and rigorous validation processes, we aim to promote transparency, integrity, and inclusivity in news reporting. Our goal is to empower users to share news without fear of bias or harassment, ultimately contributing to a more informed and fair media landscape. Join us in our mission to revolutionize news sharing and combat biased journalism.</p>
+
+<h2 id="survey">Survey</h2>
+<p>According to our survey spanning all age groups from 15 to 60 years old, online news sources are overwhelmingly preferred over newspapers and news channels for staying informed. The majority of respondents expressed concerns about bias in traditional news channels. As a result, there is a clear demand for unbiased news platforms.</p>
+<img src="sssets/images/age.jpeg" alt="Age">
+<img src="assets/images/gender.jpeg" alt="Gender">
+<img src="assets/images/sources.jpeg" alt="What sources do you primarily use for news?">
+<img src="assets/images/biased.jpeg" alt="Do you believe that news media outlets have biases?">
+<img src="assets/images/accuracy.jpeg" alt="How confident are you in the objectivity and accuracy of the news you consume?">
+<img src="assets/images/experience1.jpeg" alt="">
+<img src="assets/images/experience2.jpeg" alt="">
 
   <!-- Add more content as needed -->
 

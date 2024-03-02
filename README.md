@@ -61,6 +61,30 @@ The need for our application arises from the increasing prevalence of biased jou
   </br>
   </br>
   <img src="image (1).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (2).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (3).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (4).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (5).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (6).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (7).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (8).png" width="300" height="600">
+  </br>
+  </br>
+  <img src="image (9).png" width="300" height="600">
   
 
   <!-- Add detailed content for each feature -->

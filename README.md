@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JustNews-Justified News Application</title>
+ 
 </head>
 
 <body>
@@ -30,27 +30,28 @@ The need for our application arises from the increasing prevalence of biased jou
 <h2 id="survey">Survey</h2>
 <p>According to our survey spanning all age groups from 15 to 60 years old, online news sources are overwhelmingly preferred over newspapers and news channels for staying informed. The majority of respondents expressed concerns about bias in traditional news channels. As a result, there is a clear demand for unbiased news platforms.</p>
 <h4>Age</h4>
-<img src="assets/images/age.jpeg" alt="Age" height="auto"; max-width=50%>
+<img src="age.jpeg" alt="Age" height="auto"; max-width=50%>
 <h4>Gender</h4>
-<img src="assets/images/gender.jpeg" alt="Gender" height="auto"; max-width=50%>
+<img src="gender.jpeg" alt="Gender" height="auto"; max-width=50%>
 <h4>What sources do you primarily use for news?</h4>
-<img src="assets/images/sources.jpeg" alt="What sources do you primarily use for news?" height="auto"; max-width=50%>
+<img src="sources.jpeg" alt="What sources do you primarily use for news?" height="auto"; max-width=50%>
 <h4>Do you believe that news media outlets have biases?</h4>
-<img src="assets/images/biased.jpeg" alt="Do you believe that news media outlets have biases?" height="auto"; max-width=50%>
+<img src="biased.jpeg" alt="Do you believe that news media outlets have biases?" height="auto"; max-width=50%>
 <h4>How confident are you in the objectivity and accuracy of the news you consume?</h4>
-<img src="assets/images/accuracy.jpeg" alt="How confident are you in the objectivity and accuracy of the news you consume?" height="auto"; max-width=50%>
+<img src="accuracy.jpeg" alt="How confident are you in the objectivity and accuracy of the news you consume?" height="auto"; max-width=50%>
 <h4>Opinion</h4>
-<img src="assets/images/experience1.jpeg" alt="" height="auto"; max-width=50%>
+<img src="experience1.jpeg" alt="" height="auto"; max-width=50%>
+<img src="experience2.jpeg" alt="" height="auto"; max-width=50%>
 
 
 
   <!-- Add more content as needed -->
 
   <h2 id="features">Features</h2>
-  <img src="assets/images/1.png" width="300" height="600">
-  <img src="assets/images/2.png"  width="300" height="600">
-  <img src="assets/images/3.png"width="300" height="600">
-  <img src="assets/images/4.png" width="300" height="600">
+  <img src="1.png" width="300" height="600">
+  <img src="2.png"  width="300" height="600">
+  <img src="3.png"width="300" height="600">
+  <img src="4.png" width="300" height="600">
   
 
   <!-- Add detailed content for each feature -->

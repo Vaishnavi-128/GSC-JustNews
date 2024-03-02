@@ -49,8 +49,14 @@ The need for our application arises from the increasing prevalence of biased jou
 
   <h2 id="features">Features</h2>
   <img src="1.png" width="300" height="600">
+  </br>
+  </br>
   <img src="2.png"  width="300" height="600">
+  </br>
+  </br>
   <img src="3.png"width="300" height="600">
+  </br>
+  </br>
   <img src="4.png" width="300" height="600">
   
 

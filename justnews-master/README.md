@@ -28,13 +28,20 @@ The need for our application arises from the increasing prevalence of biased jou
 
 <h2 id="survey">Survey</h2>
 <p>According to our survey spanning all age groups from 15 to 60 years old, online news sources are overwhelmingly preferred over newspapers and news channels for staying informed. The majority of respondents expressed concerns about bias in traditional news channels. As a result, there is a clear demand for unbiased news platforms.</p>
-<img src="assets/images/age.jpeg" alt="Age">
-<img src="assets/images/gender.jpeg" alt="Gender">
-<img src="assets/images/sources.jpeg" alt="What sources do you primarily use for news?">
-<img src="assets/images/biased.jpeg" alt="Do you believe that news media outlets have biases?">
-<img src="assets/images/accuracy.jpeg" alt="How confident are you in the objectivity and accuracy of the news you consume?">
-<img src="assets/images/experience1.jpeg" alt="">
-<img src="assets/images/experience2.jpeg" alt="">
+<h5>Age</h5>
+<img src="assets/images/age.jpeg" alt="Age" height="auto"; max-width=50%>
+<h5>Gender</h5>
+<img src="assets/images/gender.jpeg" alt="Gender" height="auto"; max-width=50%>
+<h5>What sources do you primarily use for news?</h5>
+<img src="assets/images/sources.jpeg" alt="What sources do you primarily use for news?" height="auto"; max-width=50%>
+<h5>Do you believe that news media outlets have biases?</h5>
+<img src="assets/images/biased.jpeg" alt="Do you believe that news media outlets have biases?" height="auto"; max-width=50%>
+<h5>How confident are you in the objectivity and accuracy of the news you consume?</h5>
+<img src="assets/images/accuracy.jpeg" alt="How confident are you in the objectivity and accuracy of the news you consume?" height="auto"; max-width=50%>
+<h5>Opinion</h5>
+<img src="assets/images/experience1.jpeg" alt="" height="auto"; max-width=50%>
+
+<img src="assets/images/experience2.jpeg" alt="" height="auto"; max-width=50%>
 
   <!-- Add more content as needed -->
 

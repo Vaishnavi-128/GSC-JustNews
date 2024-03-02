@@ -65,21 +65,29 @@ The need for our application arises from the increasing prevalence of biased jou
   <!-- Repeat the above structure for other sections -->
 
   <h2 id="installation">Installation</h2>
-  <p>To run this app, follow the steps below:</p>
-  <ol>
-    <li>Clone the repository, open cmd in the desired folder and type:
-      <pre>git clone https://github.com/SheRights/SheRights-Application.git</pre>
-    </li>
-    <li>Navigate to the project's root directory.</li>
-    <li>Install the project dependencies using:
-      <pre>npm install</pre>
-    </li>
-  </ol>
+  <p>Installation
+To run this app, follow the steps below:
+1.	Clone the repository by opening the command prompt in the desired folder and typing:
+git clone https://github.com/Vaishnavi-128/justnews.git
+2.	Navigate to the project's root directory.
+3.	Run the following command to install the project dependencies specified in the pubspec.yaml file:
+flutter pub get</p>
+ 
 
   <!-- Add more content as needed -->
 
   <h2 id="configuration">Configuration</h2>
-  <p>SheRights uses Firebase for authentication and database. To use Firebase in the app, you will need to create a new Firebase project and add the configuration details to the project. Here's how:</p>
+  <p>JustNews uses Firebase for authentication and database. To use Firebase in the app, you will need to create a new Firebase project and add the configuration details to the project. Here's how:
+Firebase Setup:
+	Create a new project on the Firebase Console.
+	Follow the instructions to add your Flutter app to the Firebase project.
+	Download the google-services.json file and place it in the android/app directory of your Flutter project.
+	Add the necessary Firebase plugins to your Flutter project by following the instructions provided by Firebase.
+Configure Firebase Plugins:
+	Update your pubspec.yaml file to include the required Firebase plugins and their versions.
+	Run flutter pub get to fetch the dependencies.
+Run the App:
+	Connect your device or emulator.</p>
   <ol>
     <li>Create a new Firebase project on the Firebase Console.</li>
     <!-- Add more configuration steps as needed -->
@@ -87,24 +95,23 @@ The need for our application arises from the increasing prevalence of biased jou
 
   <!-- Add more content as needed -->
 
-  <h2 id="running-the-application">Running the Application</h2>
-  <p>To run the application on your device or emulator, run the following command:</p>
-  <pre>
-    <code>Open command prompt in your root directory and run:
-      npx react-native start
-      npx react-native run-android
-    </code>
-  </pre>
+  
 
   <!-- Add more content as needed -->
 
   <h2 id="conclusion">Conclusion</h2>
-  <p>That's it! You now have a fully functional SheRights application running on your device or emulator. Feel free to explore the application and test out its features. If you have any feedback or suggestions for the application, please feel free to contact us. We hope that SheRights can make a positive impact on the lives of women worldwide.</p>
+  <p>That's it! You now have a fully functional JustNews application running on your device or emulator. Feel free to explore the application and test out its features. If you have any feedback or suggestions for the application, please feel free to contact us. We hope that JustNews will become your go-to platform for staying informed while promoting transparency and inclusivity in news reporting.</p>
 
   <!-- Add more content as needed -->
 
   <h2 id="contributing">Contributing</h2>
-  <p>We welcome contributions to SheRights. If you have any ideas or features you would like to add, please feel free to fork the repository and make a pull request.</p>
+  <p>CONTRIBUTION
+We welcome contributions to JustNews. If you have any ideas or features you would like to add, please feel free to fork the repository and make a pull request.
+
+	Fork the repository
+	Create a new branch with your feature or bug fix.
+	Push your changes to the new branch.
+	Make a pull request.</p>
   <ol>
     <li>Fork the repository</li>
     <!-- Add more contributing steps as needed -->

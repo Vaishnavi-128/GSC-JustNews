@@ -69,7 +69,7 @@ The need for our application arises from the increasing prevalence of biased jou
 <p>To run this app, follow the steps below:</p>
 <ol>
   <li>Clone the repository by opening the command prompt in the desired folder and typing:
-    <pre><code>git clone https://github.com/Vaishnavi-128/justnews.git</code></pre>
+    <pre><code>git clone https://github.com/Vaishnavi-128/GSC-JustNews.git</code></pre>
   </li>
   <li>Navigate to the project's root directory.</li>
   <li>Run the following command to install the project dependencies specified in the pubspec.yaml file:
@@ -83,21 +83,26 @@ The need for our application arises from the increasing prevalence of biased jou
   <!-- Add more content as needed -->
 
   <h2 id="configuration">Configuration</h2>
-  <p>JustNews uses Firebase for authentication and database. To use Firebase in the app, you will need to create a new Firebase project and add the configuration details to the project. Here's how:
-Firebase Setup:
-	Create a new project on the Firebase Console.
-	Follow the instructions to add your Flutter app to the Firebase project.
-	Download the google-services.json file and place it in the android/app directory of your Flutter project.
-	Add the necessary Firebase plugins to your Flutter project by following the instructions provided by Firebase.
-Configure Firebase Plugins:
-	Update your pubspec.yaml file to include the required Firebase plugins and their versions.
-	Run flutter pub get to fetch the dependencies.
-Run the App:
-	Connect your device or emulator.</p>
-  <ol>
-    <li>Create a new Firebase project on the Firebase Console.</li>
-    <!-- Add more configuration steps as needed -->
-  </ol>
+<p><strong>JustNews Firebase Setup:</strong></p>
+<ol>
+  <li>Create a new project on the Firebase Console.</li>
+  <li>Follow the instructions to add your Flutter app to the Firebase project.</li>
+  <li>Download the <code>google-services.json</code> file and place it in the <code>android/app</code> directory of your Flutter project.</li>
+  <li>Add the necessary Firebase plugins to your Flutter project by following the instructions provided by Firebase.</li>
+</ol>
+
+<p><strong>Configure Firebase Plugins:</strong></p>
+<ol>
+  <li>Update your <code>pubspec.yaml</code> file to include the required Firebase plugins and their versions.</li>
+  <li>Run <code>flutter pub get</code> to fetch the dependencies.</li>
+</ol>
+
+<p><strong>Run the App:</strong></p>
+<ol>
+  <li>Connect your device or emulator.</li>
+</ol>
+</p>
+
 
   <!-- Add more content as needed -->
 
@@ -111,17 +116,16 @@ Run the App:
   <!-- Add more content as needed -->
 
   <h2 id="contributing">Contributing</h2>
-  <p>CONTRIBUTION
-We welcome contributions to JustNews. If you have any ideas or features you would like to add, please feel free to fork the repository and make a pull request.
+<p><strong>CONTRIBUTION</strong></p>
+<ol>
+  <li>Fork the repository</li>
+  <li>Create a new branch with your feature or bug fix.</li>
+  <li>Push your changes to the new branch.</li>
+  <li>Make a pull request.</li>
+</ol>
+</p>
 
-	Fork the repository
-	Create a new branch with your feature or bug fix.
-	Push your changes to the new branch.
-	Make a pull request.</p>
-  <ol>
-    <li>Fork the repository</li>
-    <!-- Add more contributing steps as needed -->
-  </ol>
+ 
 
   <!-- Add more content as needed -->
 
